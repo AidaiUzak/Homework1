@@ -7,6 +7,8 @@ public class Main {
         String variable2 = "мир !";
         String variable = variable1 + variable2;
 
+
+
         System.out.println(variable);
         System.out.println(variable1);
     }
